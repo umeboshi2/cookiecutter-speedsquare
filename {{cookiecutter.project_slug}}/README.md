@@ -32,7 +32,7 @@ I plan to update the configuration in the future to make this more flexible.
 - Install dependencies
 
 	```sh
-	cd sassy-bs
+	cd {{ cookiecutter.project_slug }}
 	bundle install
 	npm install
 	```

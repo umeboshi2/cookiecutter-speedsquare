@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}.git"
   },
-  "author": "{{ full_name }}",
+  "author": "{{ cookiecutter.full_name }}",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/issues"
